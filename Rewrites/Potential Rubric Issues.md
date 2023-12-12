@@ -26,7 +26,7 @@ The two most commonly failed rubric items for this project are:
   - Correct Values for All Statistical Results
 For all numeric values, you should provide the correct results of the analysis.  **(Results Rubric)**
 
-_In parentheses, I have offered shorted explanations of each rubric item_.
+_In parentheses, I have offered shortened explanations of each rubric item_.
 
 If you take a random sample of projects that fail those rubric items, **most** of those reviews will **fail both** of these rubric items _for the same reason_: Because of **incorrect _results_**.
 
