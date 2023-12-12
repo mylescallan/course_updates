@@ -101,7 +101,7 @@ _Sample & Typos:_
 
 _Alternative (less code, introduces commonly used plot options):_
 
-![simple approach.png](simple approach.png)
+![simple_approach.png](simple_approach.png)
 
 ***
 
