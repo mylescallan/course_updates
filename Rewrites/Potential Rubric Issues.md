@@ -83,7 +83,7 @@ For the plots rubric requirement, there is this important tip:
 
 **Overplotting** is where parts of visualizations plot on top of each other (most commonly refers to scatterplot points plotting on top of each other).
 
-However, the first example in the **Multivariate** plots section:
+However, [the first example in the **Multivariate** plots section](https://learn.udacity.com/nanodegrees/nd002/parts/cd12532/lessons/be83d677-c9b7-4e47-b218-62354a59a8b3/concepts/b3b94fb7-2790-43c0-bc4e-aad82a97b0ba):
 
 1. Uses a **sample** of data to avoid **overcrowding** (i.e. overplotting). This is not appropriate.
   - Samples of data should only be used if the dataset is very large.
