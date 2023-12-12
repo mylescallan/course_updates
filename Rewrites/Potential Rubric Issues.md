@@ -35,7 +35,7 @@ If you take a random sample of projects that fail those rubric items, **most** o
 
 #### Example
 
-This is [a detailed review](https://review.udacity.com/#!/reviews/4149326) where the reviewer obviously invested time in completing.
+This is [a detailed review](https://review.udacity.com/#!/reviews/4149326) where the reviewer obviously invested quite a lot of time when completing the linked review.
 
 However, **results** are evaluated in both rubric items.
 
